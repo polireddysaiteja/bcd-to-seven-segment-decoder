@@ -11,10 +11,6 @@ This project demonstrates a **BCD to Seven Segment Display Decoder** circuit des
 The 74LS47 IC takes a 4-bit BCD input and drives the 7-segment display to show the corresponding decimal digit (0–9).  
 The input switches (S1–S4) represent binary bits (A, B, C, D). Depending on their combination, the decoder outputs activate specific segments on the display.
 
-## 🖥️ Circuit Diagram
-![BCD to Seven Segment Decoder Circuit](<img width="1920" height="1080" alt="Screenshot 2025-10-22 212130" src="https://github.com/user-attachments/assets/a2d68eae-bbd9-47f0-9395-61a654747e50" />
-)
-
 ## 🧩 Connections Overview
 - **Inputs (A, B, C, D):** Controlled by switches S1–S4  
 - **Outputs (a–g):** Connected from U1 (74LS47) to the 7-segment display (U2)  
