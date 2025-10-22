@@ -12,7 +12,8 @@ The 74LS47 IC takes a 4-bit BCD input and drives the 7-segment display to show t
 The input switches (S1–S4) represent binary bits (A, B, C, D). Depending on their combination, the decoder outputs activate specific segments on the display.
 
 ## 🖥️ Circuit Diagram
-![BCD to Seven Segment Decoder Circuit](Screenshot%202025-10-22%20212827.png)
+![BCD to Seven Segment Decoder Circuit](<img width="1656" height="822" alt="Screenshot 2025-10-22 212827" src="https://github.com/user-attachments/assets/479480fb-36f3-496d-aa6c-f5502bdd61c8" />
+)
 
 ## 🧩 Connections Overview
 - **Inputs (A, B, C, D):** Controlled by switches S1–S4  
